@@ -1,0 +1,3 @@
+databasName = Cluster0
+mongodb passwords = dLTYuD6XXKrBH8ev
+link = mongodb+srv://rishirajanand5:<password>@cluster0.2qo56tq.mongodb.net/?retryWrites=true&w=majority

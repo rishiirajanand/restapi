@@ -1,0 +1,41 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 153,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch",
+        "price" : 247,
+        "featured" : true,
+        "company" : "sumsung"
+    },
+    {
+        "name" : "iphone15",
+        "price" : 564,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch10",
+        "price" : 753,
+        "company" : "apple"
+    },
+    {
+        "name" : "galaxyS21",
+        "price" : 764,
+        "company" : "sumsung"
+    },
+    {
+        "name" : "powerbank",
+        "price" : 142,
+        "company" : "mi"
+    },
+    {
+        "name" : "laptop",
+        "price" : 500,
+        "company" : "mi"
+    }
+
+]
