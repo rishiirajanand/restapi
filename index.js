@@ -12,7 +12,7 @@ const app = express();
 });*/
 
 // use middleware
-app.use('/',product_routes);
+app.use('/product',product_routes);
 
 const start = async ()=>{
 
